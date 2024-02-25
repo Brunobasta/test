@@ -1,2 +1,2 @@
-veggies = ['cabbage', 'carrot', 'spinach', 'aspagarus', 'artichoke', 
+veggies = ['cabbage', 'Karotten', 'spinach', 'aspagarus', 'artichoke', 
            'lettuce']
